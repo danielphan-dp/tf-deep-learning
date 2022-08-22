@@ -1,4 +1,4 @@
-### TensorFlow Specialization
+### DeepLearning.AI TensorFlow Specialization
 
 **C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 1. A New Programming Paradigm
@@ -16,6 +16,11 @@ Labs -
 [`c1w4l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W4_Lab_2_image_generator_with_validation.ipynb)
 [`c1w4l3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W4_Lab_3_compacted_images.ipynb)
 
+Assignments -
+[`c1w1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C1/C1W1_Assignment.ipynb)
+[`c1w2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C1/C1W2_Assignment.ipynb)
+[`c1w3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C1/C1W3_Assignment.ipynb)
+[`c1w4`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C1/C1W4_Assignment.ipynb)
 
 **C2 - Convolutional Neural Networks in TensorFlow**
 1. Exploring a Larger Dataset

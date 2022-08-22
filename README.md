@@ -1,4 +1,4 @@
-# deeplearning.ai-tensorflow-developer-specialization
+### TensorFlow Specialization
 
 **C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 1. A New Programming Paradigm
@@ -35,6 +35,10 @@ Labs:
 Assignments:
 
 **C4 - Sequences, Time Series and Prediction**
+1. Sequences and Prediction
+2. Deep Neural Networks for Time Series
+3. Recurrent Neural Networks for Time Series
+4. Real-world time series data
 
 Labs:
 

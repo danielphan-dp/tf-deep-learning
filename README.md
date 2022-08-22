@@ -76,7 +76,14 @@ Assignments -
 4. Real-world time series data
 
 Labs - 
-
+[`c4w1l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C4/C4_W1_Lab_1_time_series.ipynb)
+[`c4w1l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C4/C4_W1_Lab_2_forecasting.ipynb)
+[`c4w2l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C4/C4_W2_Lab_1_features_and_labels.ipynb)
+[`c4w2l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C4/C4_W2_Lab_2_single_layer_NN.ipynb)
+[`c4w2l3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C4/C4_W2_Lab_3_deep_NN.ipynb)
 
 Assignments - 
-
+[`c4w1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C4/C4W1_Assignment.ipynb)
+[`c4w2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C4/C4W2_Assignment.ipynb)
+[`c4w3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C4/C4W3_Assignment.ipynb)
+[`c4w4`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C4/C4W4_Assignment.ipynb)

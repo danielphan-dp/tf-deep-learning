@@ -48,10 +48,26 @@ Assignments -
 5. Sequence models and literature
 
 Labs -
-
+[`c3w1l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W1_Lab_1_tokenize_basic.ipynb)
+[`c3w1l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W1_Lab_2_sequences_basic.ipynb)
+[`c3w1l3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W1_Lab_3_sarcasm.ipynb)
+[`c3w2l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W2_Lab_1_imdb.ipynb)
+[`c3w2l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W2_Lab_2_sarcasm_classifier.ipynb)
+[`c3w2l3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W2_Lab_3_imdb_subwords.ipynb)
+[`c3w3l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W3_Lab_1_single_layer_LSTM.ipynb)
+[`c3w3l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W3_Lab_2_multiple_layer_LSTM.ipynb)
+[`c3w3l3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W3_Lab_3_Conv1D.ipynb)
+[`c3w3l4`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W3_Lab_4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb)
+[`c3w3l5`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb)
+[`c3w3l6`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W3_Lab_6_sarcasm_with_1D_convolutional.ipynb)
+[`c3w4l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W4_Lab_1.ipynb)
+[`c3w4l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C3/C3_W4_Lab_2_irish_lyrics.ipynb)
 
 Assignments - 
-
+[`c3w1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C3/C3W1_Assignment.ipynb)
+[`c3w2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C3/C3W2_Assignment.ipynb)
+[`c3w3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C3/C3W3_Assignment.ipynb)
+[`c3w4`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C3/C3W4_Assignment.ipynb)
 
 **C4 - Sequences, Time Series and Prediction**
 1. Sequences and Prediction

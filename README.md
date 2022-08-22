@@ -28,9 +28,18 @@ Assignments -
 3. Transfer Learning
 4. Multiclass Classifications
 
-Labs:
+Labs - 
+[`c2w1l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C2/C2_W1_Lab_1_cats_vs_dogs.ipynb)
+[`c2w2l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C2/C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb)
+[`c2w2l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C2/C2_W2_Lab_2_horses_v_humans_augmentation.ipynb)
+[`c2w3l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C2/C2_W3_Lab_1_transfer_learning.ipynb)
+[`c2w4l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C2/C2_W4_Lab_1_multi_class_classifier.ipynb)
 
-Assignments:
+Assignments - 
+[`c2w1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C2/C2W1_Assignment.ipynb)
+[`c2w2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C2/C2W2_Assignment.ipynb)
+[`c2w3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C2/C2W3_Assignment.ipynb)
+[`c2w4`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/graded-notebooks/C2/C2W4_Assignment.ipynb)
 
 **C3 - Natural Language Processing in TensorFlow**
 1. Sentiment in text
@@ -38,9 +47,11 @@ Assignments:
 4. Sequence models
 5. Sequence models and literature
 
-Labs:
+Labs -
 
-Assignments:
+
+Assignments - 
+
 
 **C4 - Sequences, Time Series and Prediction**
 1. Sequences and Prediction
@@ -48,6 +59,8 @@ Assignments:
 3. Recurrent Neural Networks for Time Series
 4. Real-world time series data
 
-Labs:
+Labs - 
 
-Assignments:
+
+Assignments - 
+

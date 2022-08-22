@@ -6,12 +6,15 @@
 3. Enhancing Vision with Convolutional Neural Networks
 4. Using Real-world Images
 
-Labs - [`c1w2l1`](c1w2l1) [`c1w2l2`](c1w2l2)
-
-Assignments - 
-
-[c1w2l1]: https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W2_Lab_1_beyond_hello_world.ipynb
-[c1w2l2]: https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W2_Lab_2_callbacks.ipynb
+Labs - 
+[`c1w1l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W1_Lab_1_hello_world_nn.ipynb)
+[`c1w2l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W2_Lab_1_beyond_hello_world.ipynb) 
+[`c1w2l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W2_Lab_2_callbacks.ipynb)
+[`c1w3l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb)
+[`c1w3l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W3_Lab_2_exploring_convolutions.ipynb)
+[`c1w4l1`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W4_Lab_1_image_generator_no_validation.ipynb)
+[`c1w4l2`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W4_Lab_2_image_generator_with_validation.ipynb)
+[`c1w4l3`](https://nbviewer.org/github/danielphan-dp/tf-specialization/blob/main/google-collab-notebooks/C1/C1_W4_Lab_3_compacted_images.ipynb)
 
 
 **C2 - Convolutional Neural Networks in TensorFlow**

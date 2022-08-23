@@ -1,6 +1,6 @@
 ### DeepLearning.AI TensorFlow Specialization
 
-[Certifications Documentation](certifications-png/certification.md)
+[Click here](certifications-png/certification.md) to see certifications documentation.
 
 Click on `lab` and `assignment` urls to view JPYNB's in NBViewer.
 

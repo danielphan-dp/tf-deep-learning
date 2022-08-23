@@ -1,5 +1,7 @@
 ### DeepLearning.AI TensorFlow Specialization
 
+Click on `lab` and `assignment` urls to view JPYNB's in NBViewer. 
+
 **C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
 1. A New Programming Paradigm
 2. Introduction to Computer Vision
